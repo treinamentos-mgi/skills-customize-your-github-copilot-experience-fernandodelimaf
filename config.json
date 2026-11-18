@@ -77,6 +77,20 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "sqlite-data-persistence",
+      "title": "Data Persistence with SQLite",
+      "description": "Store and manage a Python book catalog using SQLite and CRUD operations.",
+      "path": "assignments/sqlite-data-persistence",
+      "dueDate": "2026-11-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
